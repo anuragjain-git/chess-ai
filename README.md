@@ -108,7 +108,7 @@ The game will automatically handle the rules of chess, including legal moves, ca
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/anuragjain-git/chess.git
+   git clone https://github.com/anuragjain-git/chess-bot.git
    
 2. Navigate to the project directory:
    
