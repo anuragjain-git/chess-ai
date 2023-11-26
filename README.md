@@ -25,6 +25,9 @@ This is a basic implementation of a chess game with a graphical user interface. 
 - **Advanced Chess Mechanics:**
   - Supports advanced chess mechanics, including pawn promotion, en passant, and castling for a more strategic and engaging experience.
 
+- **Undo and Reset Board:**
+  - Press Z for undo, R for reset
+
 - **Variety of Chess Boards:**
   - Enjoy playing on different chess board colors, adding a personalized touch to your gaming experience.
 
