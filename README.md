@@ -2,8 +2,7 @@
 
 A simple chess game implemented in Python using the Pygame library.
 
-<img src="https://github.com/anuragjain-git/chess/assets/98457054/c23b1cb3-85e3-47b9-a754-de67c8f5fda2" alt="Chessboard" width="400"/>
-
+![Untitled video - Made with Clipchamp](https://github.com/anuragjain-git/chess/assets/98457054/bfdea7e5-502b-4852-a2c9-115ea32e45da)
 
 ## Introduction
 
